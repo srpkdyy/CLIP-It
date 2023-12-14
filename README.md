@@ -10,6 +10,12 @@ This is an unofficial PyTorch implementation of the following paper.
 > Medhini Narasimhan, Anna Rohrbach, Trevor Darrell <br>
 > https://arxiv.org/abs/2107.00650
 
+## Installation
+```bash
+cd docker
+docker build -t clipit .
+```
+
 ## Usage
 
 ```python
